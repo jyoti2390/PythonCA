@@ -1,6 +1,6 @@
 # Creating Class Employee
 class Employee
-def __init__(self, Id,fname, lname, rhours, hRate, ot, taxC, sb):
+def __init__(self,StaffID, LastName, FirstName, RegHours, HourlyRate, OTMultiple, TaxCredit, StandardBand):
 self.Id=staffId
 self.fname=FirstName
 self.lname=LastName
